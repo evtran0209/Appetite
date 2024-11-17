@@ -1,3 +1,3 @@
 # Appetite
 
-iOS cooking recipe app using MealDB API and Gemini.
+iOS cooking recipe app using MealDB API and Gemini API.
